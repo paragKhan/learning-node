@@ -1,0 +1,15 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/paragKhan/learning-node.git",
+  "author": "Parag Khan <prgkhan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  },
+
+  "scripts": {
+    "start": "nodemon index"
+  }
+}
